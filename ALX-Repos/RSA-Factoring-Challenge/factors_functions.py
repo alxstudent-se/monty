@@ -33,3 +33,4 @@ def print_factors():
             n = int(line)
             fun.trial_division(n)
             line = prime.readline()
+            

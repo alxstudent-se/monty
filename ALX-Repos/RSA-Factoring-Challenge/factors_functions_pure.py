@@ -55,3 +55,4 @@ def print_factors():
             print("{}={}*{}".format(n, n//rep, rep))
 
             line = prime.readline()
+            
